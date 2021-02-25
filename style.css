@@ -3,3 +3,7 @@ h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: navy;
 }
+h2{
+    background-color: gold;
+    font-style: italic;
+}
