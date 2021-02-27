@@ -6,6 +6,11 @@ h1{
 h2{
     border: 20px;
     font-style: italic;
-    background-color: chartreuse;
+    background-color: rgb(99, 187, 12);
     color: gray;
+}
+h3{
+    background-color: aqua;
+    text-indent: 200px;
+    text-underline-position:below;
 }
