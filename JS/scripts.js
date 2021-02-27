@@ -1,12 +1,8 @@
-const getName = () ==> {
-    let firstName = document.getElementById("firstName").value
-let secondName = document.getElementById("secondName").value
+const getName = () =>   {
+    let firstName = document.getElementById("firstName").Value
+    let secondName = document.getElementById("secondName").Value
 
-console.log(firstName, secondName) 
+    console.log(firstName, secondName)
 
-
-
-
-
-
-} 
+    
+}
